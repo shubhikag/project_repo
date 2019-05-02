@@ -12,6 +12,8 @@ public class AppTest
     @Test
     public void Testsquare()
     {
+    	
+    	
     	App a = new App();
     int output = a.square(6);	
     assertEquals(36, output);
