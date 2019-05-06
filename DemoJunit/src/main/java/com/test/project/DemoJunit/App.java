@@ -13,6 +13,7 @@ public class App
     }
     public int square(int x)
     {
+          System.out.println( "Hello everyone!" );
     	return x*x;
     }
     public int countA(String word)
